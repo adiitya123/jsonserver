@@ -3,9 +3,9 @@
   "version": "1.0.0",
   "description": "A simple app using json-server",
   "main": "index.js",
-  "scripts": {
-    "start": "node_modules/.bin/json-server --watch db.json --port $PORT"
-  },
+  "sscripts": {
+  "start": "json-server --watch db.json --port $PORT"
+},
   "dependencies": {
     "json-server": "^0.17.0"
   },
