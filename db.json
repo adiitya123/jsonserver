@@ -1,0 +1,64 @@
+{
+    "questions": [
+      {
+        "id": 1,
+        "sentence": "The sun ____ brightly in the clear blue sky.",
+        "blanks": ["shines"],
+        "options": ["shines", "running", "eating", "jumps"]
+      },
+      {
+        "id": 2,
+        "sentence": "She ____ to the store to buy some groceries.",
+        "blanks": ["went"],
+        "options": ["went", "sleep", "singing", "watches"]
+      },
+      {
+        "id": 3,
+        "sentence": "The children ____ happily in the park all afternoon.",
+        "blanks": ["played"],
+        "options": ["played", "cooking", "writes", "sleeping"]
+      },
+      {
+        "id": 4,
+        "sentence": "He ____ his homework before watching television.",
+        "blanks": ["finished"],
+        "options": ["reads", "runs", "finished", "eating"]
+      },
+      {
+        "id": 5,
+        "sentence": "They ____ planning to visit their grandparents next weekend.",
+        "blanks": ["are"],
+        "options": ["were", "is", "am", "are"]
+      },
+      {
+        "id": 6,
+        "sentence": "The cat ____ lazily in the warm sunshine.",
+        "blanks": ["lounged"],
+        "options": ["lounged", "barking", "swim", "flies"]
+      },
+      {
+        "id": 7,
+        "sentence": "I ____ to music while I work on my project.",
+        "blanks": ["listen"],
+        "options": ["eating", "sleep", "listen", "writes"]
+      },
+      {
+        "id": 8,
+        "sentence": "The movie ____ at 7:00 PM at the local theater.",
+        "blanks": ["starts"],
+        "options": ["starts", "jumping", "sleep", "cooking"]
+      },
+      {
+        "id": 9,
+        "sentence": "She ____ a delicious cake for her brother's birthday.",
+        "blanks": ["baked"],
+        "options": ["running", "baked", "drinks", "sleeping"]
+      },
+      {
+        "id": 10,
+        "sentence": "The students ____ attentively to the teacher's lecture.",
+        "blanks": ["listened"],
+        "options": ["listened", "jumping", "eats", "writing"]
+      }
+    ]
+  }
